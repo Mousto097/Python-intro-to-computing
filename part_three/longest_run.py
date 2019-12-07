@@ -1,4 +1,4 @@
-# Author: Mamadou Moustapha Bah (8851762)
+# Author: Mamadou Bah
 
 
 def longest_run(new_list):
