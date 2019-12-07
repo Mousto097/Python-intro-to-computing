@@ -1,2 +1,3 @@
-# Python-intro-to-computing
-# Python-intro-to-computing
+# Introduction to computing
+
+## Python
